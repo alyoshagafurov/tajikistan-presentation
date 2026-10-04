@@ -1,58 +1,76 @@
 # Speaker notes — Tajikistan
 
-Each slide carries one short line, so you can move on as soon as you finish the sentence. Use the next arrow or right-arrow key to reveal the next photograph.
+One simple line for each slide. The next arrow or right-arrow key moves to the next scene.
 
 ## 1 — Tajikistan
-Hello, everyone. My name is Abdullo Gafurov, and I come from Tajikistan. I’m glad to share a little about my home with you.
+Hello, everyone. I am Abdullo Gafurov. Tajikistan is my home.
 
 ## 2 — The Pamirs
-Tajikistan is a mountainous country in Central Asia. The Pamirs shape our landscape and the lives of people who live there.
+Our country has many high mountains.
 
-## 3 — Rivers from the ice
-Snow and glaciers feed rivers that run down from the mountains. These waters connect the high valleys with the communities below.
+## 3 — Rivers of life
+Snow melts and gives water to our valleys.
 
-## 4 — A lake of legends
-This is Iskanderkul, one of our best-known mountain lakes. Its name is linked with Alexander the Great, known in the region as Iskander.
+## 4 — Iskanderkul
+This beautiful lake is in the Fann Mountains.
 
-## 5 — A history written in stone
-Hissar Fortress is one of the familiar historic landmarks near Dushanbe. It gives visitors a glimpse of the region’s long history.
+## 5 — Hissar Fortress
+This old fort stands near Dushanbe.
 
-## 6 — Sarazm: ancient life
-Sarazm is an ancient settlement near Panjakent. Archaeologists have found signs of early life, craft and trade, linking people across the region.
+## 6 — Sarazm
+People lived and traded here many years ago.
 
-## 7 — Dushanbe, our capital
-Dushanbe is the capital of Tajikistan. It is a lively city, with modern streets, green spaces and mountains nearby.
+## 7 — Dushanbe
+Dushanbe is our capital city.
 
-## 8 — A city of meeting places
-Rudaki Park is a familiar place to walk and spend time with family. The avenue and its gardens make the heart of Dushanbe feel welcoming.
+## 8 — City colors
+You can see the Tajik flag around the city.
 
-## 9 — Dushanbe after dark
-In the evening, the lights give the capital a different character. The city feels calm and festive at the same time.
+## 9 — A city landmark
+This tower is one of Dushanbe’s striking sights.
 
-## 10 — Welcome, Navruz
-Navruz celebrates the arrival of spring and a new beginning. Families visit one another, prepare special food and enjoy music together.
+## 10 — Dushanbe at night
+At night, the city lights make a lovely view.
 
-## 11 — A table for everyone
-Qurutob is a much-loved Tajik dish, served on a shared platter. A meal is also a way to show care for friends and guests.
+## 11 — A proud symbol
+The monument honors Ismail Somoni, an important leader in our history.
 
-## 12 — The plate at the center
-Palov is rice cooked with carrots, spices and other ingredients. Families often prepare it when people gather for a celebration.
+## 12 — Navruz
+Navruz is our spring holiday. Families celebrate together.
 
-## 13 — And bread for the table
-Non is our round, patterned bread. It is a daily food, and it is always offered to guests at the table.
+## 13 — Our traditional dress
+Our traditional clothes use bright colors and patterns.
 
-## 14 — Patterns with meaning
-Embroidery and handmade crafts bring color to clothes and homes. These patterns are passed on and remain part of everyday life.
+## 14 — A warm welcome
+When guests visit, we offer tea.
 
-## 15 — Strings that travel
-The rubab and dutar are traditional string instruments. Their sounds can be heard in folk music and at celebrations.
+## 15 — Tea and tradition
+Tea gives us time to talk and be together.
 
-## 16 — Falak: a voice to the sky
-Falak is a traditional music of Tajikistan’s mountain communities. Its name is associated with the sky, and its songs carry strong feeling.
+## 16 — Qurutob
+Qurutob is a favorite Tajik meal. We share it.
 
-## 17 — My home, your home
-I am studying in China, and I’m happy to introduce Tajikistan here. Our countries are neighbors, and sharing our stories helps us understand each other.
+## 17 — Palov for everyone
+Palov is popular at family meals and celebrations.
 
-## 18 — Thank you
-Thank you for listening. I hope you remember Tajikistan for its mountains, traditions and warm welcome. You are always welcome to visit.
+## 18 — Fresh from the oven
+This video shows bread baking in a clay oven.
+
+## 19 — A neighbor’s table
+This is Uzbek food. Uzbekistan is our neighbor.
+
+## 20 — A craft in motion
+This craft video comes from Uzbekistan, our neighbor.
+
+## 21 — Patterns by hand
+People make colorful cloth and crafts by hand.
+
+## 22 — Old places, seen above
+This is an old place in Central Asia. Its exact location is not known.
+
+## 23 — Music of the mountains
+Rubab and dutar are traditional string instruments.
+
+## 24 — Thank you
+Thank you for listening. I am glad to share Tajikistan with you.
 

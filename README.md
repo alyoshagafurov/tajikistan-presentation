@@ -1,32 +1,17 @@
 # Tajikistan — A portrait
 
-An English-language, eighteen-slide photo presentation by **Abdullo Gafurov**. Every slide pairs a full-screen photograph and a different ornamental overlay with a headline and one short supporting line. The accompanying English script is in [SPEAKER_NOTES.md](SPEAKER_NOTES.md). The site includes locally stored photographs, Wikimedia Commons images with credits, generated images, and browser-native transitions; there is no build step or package installation.
+A 24-scene English-language photo presentation by **Abdullo Gafurov**. Each scene uses one short, clear line on screen, with a separate easy-to-read speaker script in [SPEAKER_NOTES.md](SPEAKER_NOTES.md). The photos fill the screen; a few smaller framed images add a layered album feel. Four short videos play silently when their slide opens and pause when you move on.
 
 ## Present the slides
 
-Open `index.html` in a modern browser. For the best experience, use fullscreen mode. Use [SPEAKER_NOTES.md](SPEAKER_NOTES.md) for the separate spoken text for each slide.
+Open `index.html` in a modern browser and use fullscreen mode. Use [SPEAKER_NOTES.md](SPEAKER_NOTES.md) for the lines to say aloud.
 
-- `←` / `→` or `Page Up` / `Page Down`: previous or next slide
-- `Home` / `End`: first or last slide
+- `←` / `→` or `Page Up` / `Page Down`: previous or next scene
+- `Home` / `End`: first or last scene
 - Swipe left or right on a touch screen
 
-The presentation respects the device's reduced-motion setting and works on mobile screens.
+The presentation works on mobile screens and respects the reduced-motion setting. Image and video credits are in [PHOTO_CREDITS.md](PHOTO_CREDITS.md).
 
-Image licenses, author credits, and fact references are listed in [PHOTO_CREDITS.md](PHOTO_CREDITS.md).
+## Publish
 
-## Deploy to Vercel
-
-Import the GitHub repository into Vercel. Select **Other** as the framework preset, leave the build command blank, and set the output directory to `.`. Vercel serves `index.html` and the local `assets/` folder directly. The included `vercel.json` enables clean URLs.
-
-## Push to GitHub
-
-Create an empty GitHub repository, then run these commands from this folder (replace the URL with your repository URL):
-
-```sh
-git remote add origin https://github.com/YOUR_USERNAME/tajikistan-presentation.git
-git add .
-git commit -m "Create Tajikistan presentation"
-git push -u origin main
-```
-
-Alternatively, import the repository in GitHub Desktop and publish the `main` branch.
+This repository is configured for GitHub Pages. Push changes to `main`; the included workflow publishes the static presentation. It can also be imported into Vercel as a static site with no build command and `.` as the output directory.
