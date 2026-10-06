@@ -1,81 +1,100 @@
-# Speaker notes — Tajikistan
+# Tajikistan — Speaker Notes
 
-One simple line for each slide. The next arrow or right-arrow key moves to the next scene.
+**Presenter: Abdullo Gafurov**  
+Short English prompts for the 22-slide presentation.
 
-## 1 — Tajikistan
-Hello, everyone. I am Abdullo Gafurov. Tajikistan is my home.
+## Chapter 1 — The country
 
-## 2 — The Pamirs
-Our country has many high mountains.
+### 1. Tajikistan
+Hello, everyone. I am Abdullo. Today I want to show you my home, Tajikistan.
 
-## 3 — Rivers of life
-Snow melts and gives water to our valleys.
+### 2. A small country. A vast landscape.
+Tajikistan covers 143,100 square kilometres. About 10.8 million people live here.
 
-## 4 — Iskanderkul
-This beautiful lake is in the Fann Mountains.
+### 3. At the heart of Central Asia
+Tajikistan borders Uzbekistan, Kyrgyzstan, China and Afghanistan. Our capital is Dushanbe.
 
-## 5 — Hissar Fortress
-This old fort stands near Dushanbe.
+### 4. A land of high peaks
+About 93 percent of our land is mountainous. The Pamirs and the Fann Mountains are among our best-known ranges.
 
-## 6 — Sarazm
-People lived and traded here many years ago.
+## Chapter 2 — Our president
 
-## 7 — Dushanbe
-Dushanbe is our capital city.
+### 5. Emomali Rahmon
+Our president, Emomali Rahmon, was born in Danghara in 1952. He was elected president in 1994.
 
-## 8 — City colors
-You can see the Tajik flag around the city.
+### 6. A national honour
+In December 1999, Emomali Rahmon received the title Hero of Tajikistan.
 
-## 9 — A city landmark
-This tower is one of Dushanbe’s striking sights.
+## Chapter 3 — Our symbols
 
-## 10 — Dushanbe at night
-At night, the city lights make a lovely view.
+### 7. Ismail Somoni
+Ismail Somoni was an important ruler in the 9th and 10th centuries. His name is part of our capital’s history and identity.
 
-## 11 — A proud symbol
-The monument honors Ismail Somoni, an important leader in our history.
+### 8. Our flag, our story
+Red stands for unity. White recalls snow and cotton, and green represents our valleys. The golden crown and seven stars complete the flag.
 
-## 12 — Navruz
-Navruz is our spring holiday. Families celebrate together.
+### 9. The State Emblem
+The emblem shows a crown and seven stars, a rising sun over snowy mountains, wheat, cotton and an open book. These are the symbols you can see in it.
 
-## 13 — Our traditional dress
-Our traditional clothes use bright colors and patterns.
+## Chapter 4 — Our history
 
-## 14 — A warm welcome
-When guests visit, we offer tea.
+### 10. Sarazm
+Sarazm is one of Central Asia’s oldest known settlements. People lived and traded here more than five thousand years ago.
 
-## 15 — Tea and tradition
-Tea gives us time to talk and be together.
+### 11. Hisor Fortress
+Hisor Fortress stands near Dushanbe. Its tall gate helps us picture the region’s long history.
 
-## 16 — Qurutob
-Qurutob is a favorite Tajik meal. We share it.
+### 12. Iskanderkul
+Iskanderkul is a beautiful mountain lake in the Fann range. It is one of Tajikistan’s famous natural sights.
 
-## 17 — Palov for everyone
-Palov is popular at family meals and celebrations.
+## Chapter 5 — Dushanbe
 
-## 18 — Fresh from the oven
-This video shows bread baking in a clay oven.
+### 13. City through time
+This archive photo shows a rally at Ozodi Square in 1992, a difficult time in our history. The other photo shows Dushanbe in 2026. Together, they show a city moving through change.
 
-## 19 — A neighbor’s table
-This is Uzbek food. Uzbekistan is our neighbor.
+### 14. A new stage for sport
+The new National Stadium opened on August 21, 2026. It has room for 30,000 people.
 
-## 20 — A craft in motion
-This craft video comes from Uzbekistan, our neighbor.
+### 15. A place to gather
+This is Dushanbe’s Grand Mosque at night. Places like this are part of the city’s daily life and skyline.
 
-## 21 — Patterns by hand
-People make colorful cloth and crafts by hand.
+## Chapter 6 — Our culture
 
-## 22 — Old places, seen above
-This is an old place in Central Asia. Its exact location is not known.
+### 16. Osh
+Osh, also called palov, is made with rice, carrots and other ingredients. We often share it at family gatherings.
 
-## 23 — Music of the mountains
-Rubab and dutar are traditional string instruments.
+### 17. Qurutob
+Qurutob combines flatbread, qurut sauce, fresh herbs and vegetables. It is a much-loved Tajik dish.
 
-## 24 — Our flag
-Our flag has three colors. Red stands for unity. White reminds us of mountain snow and cotton. Green represents our valleys. The crown and seven stars are gold.
+### 18. Sumanak
+Sumanak is a sweet Navruz dish made from sprouted wheat. Families prepare it together to welcome spring.
 
-## 25 — Our emblem
-Our emblem shows a crown and seven stars above the mountains. The rising sun is a new day. Wheat and cotton remind us of crops from our land. At the bottom, an open book stands for learning.
+### 19. Come in. Have tea.
+Mehmondori means welcoming a guest. In Tajikistan, sharing tea is one of the ways we make people feel at home.
 
-## 26 — Thank you
-Thank you for listening. I am glad to share Tajikistan with you.
+### 20. Cloth full of colour
+Our traditional clothes use bright colours and beautiful patterns. People often wear them for celebrations and special days.
+
+## Chapter 7 — Thank you
+
+### 21. A song for our homeland
+This is the national anthem of Tajikistan. Its music is by Suleiman Yudakov, and its words are by Gulnazar Keldi. I will play a short part for you.
+
+### 22. Thank you for listening
+Thank you for listening and learning about my country. I hope one day you can visit Tajikistan.
+
+---
+
+## Fact and media sources
+
+- Tajikistan’s area: [United Nations country information](https://digitallibrary.un.org/record/719145/files/cp-tajikistan-e.pdf?ln=zh_CN).
+- Population estimate, 1 July 2026: [Statistics Agency of Tajikistan](https://www.stat.tj/en/population-growth-and-demographic-changes-in-the-country/).
+- Neighbouring countries and mountainous terrain: [United Nations country information](https://digitallibrary.un.org/record/719145/files/cp-tajikistan-e.pdf?ln=zh_CN).
+- President’s biography and dates: [President of Tajikistan](https://www.president.tj/president/biography).
+- Flag colours and state emblem: [Ministry of Foreign Affairs of Tajikistan](https://mfa.tj/en/washington/tajikistan/state-symbols).
+- Sarazm: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1141/).
+- Hisor Fortress: [UNESCO Tentative List](https://whc.unesco.org/en/tentativelists/5790/).
+- Iskanderkul: [Ministry of Foreign Affairs of Tajikistan](https://mfa.tj/en/berlin/view/9098/iskanderkul-lake).
+- Stadium: [Asia-Plus, 22 August 2026](https://asiaplus.news/en/2026/08/22/a-new-national-stadium-with-a-capacity-of-30000-spectators-opened-in-dushanbe/).
+- Anthem recording: [Embassy of Tajikistan in Qatar](https://tajembqatar.tj/video/).
+- Anthem composers: [National Anthem — Prosecutor General’s Office of Tajikistan](https://www.prokuratura.tj/en/state-symbols/the-national-anthem.html).
