@@ -18,6 +18,8 @@ The photos and videos supplied by Abdullo Gafurov are included in `assets/`. The
 | `assets/tajik-instruments-commons.jpg` | Rubabs and dutars | Ibrahim Rustamov | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Musical_instruments_Rubabs_and_Dutars_in_Tajikistan.JPG) |
 | `assets/rudaki-park-commons.jpg` | Rudaki Park, Dushanbe | VargaA | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dushanbe_2010_09_Rudaki_Park.jpg) |
 
+- `assets/tajik-emblem-official.png` — State Emblem image from the Tajikistan Agency for Hydrometeorology, [official emblem description and image](https://meteo.tj/en/national-emblem).
+
 ## Generated images
 
 - `assets/pamir-hero-generated.png` — generated for this presentation.
@@ -27,4 +29,6 @@ The photos and videos supplied by Abdullo Gafurov are included in `assets/`. The
 
 - [UNESCO: Proto-urban Site of Sarazm](https://whc.unesco.org/en/list/1141)
 - [UNESCO: Falak](https://ich.unesco.org/en/RL/falak-01725)
+- [Ministry of Foreign Affairs of Tajikistan: State Symbols](https://mfa.tj/en/washington/tajikistan/state-symbols) — flag stripe colors and emblem description.
+- [Agency for Hydrometeorology of Tajikistan: State Emblem](https://meteo.tj/en/national-emblem) — official emblem features and colors.
 - [Ministry of Foreign Affairs of Tajikistan: Iskanderkul Lake](https://mfa.tj/en/berlin/view/9098/iskanderkul-lake)
