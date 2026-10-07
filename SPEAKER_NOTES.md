@@ -50,7 +50,7 @@ Iskanderkul is a beautiful mountain lake in the Fann range. It is one of Tajikis
 ## Chapter 5 — Dushanbe
 
 ### 13. City through time
-This archive photo shows a rally at Ozodi Square in 1992, a difficult time in our history. The other photo shows Dushanbe in 2026. Together, they show a city moving through change.
+One photo shows Dushanbe before; the other shows the capital in 2026. Together, they show a city moving through change.
 
 ### 14. A new stage for sport
 The new National Stadium opened on August 21, 2026. It has room for 30,000 people.
