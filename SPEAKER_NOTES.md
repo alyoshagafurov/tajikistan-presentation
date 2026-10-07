@@ -1,7 +1,7 @@
 # Tajikistan — Speaker Notes
 
 **Presenter: Abdullo Gafurov**  
-Short English prompts for the 22-slide presentation.
+Short English prompts for the 21-slide presentation.
 
 ## Chapter 1 — The country
 
@@ -72,15 +72,12 @@ Sumanak is a sweet Navruz dish made from sprouted wheat. Families prepare it tog
 ### 19. Come in. Have tea.
 Mehmondori means welcoming a guest. In Tajikistan, sharing tea is one of the ways we make people feel at home.
 
-### 20. Cloth full of colour
-Our traditional clothes use bright colours and beautiful patterns. People often wear them for celebrations and special days.
-
 ## Chapter 7 — Thank you
 
-### 21. A song for our homeland
+### 20. A song for our homeland
 This is the national anthem of Tajikistan. Its music is by Suleiman Yudakov, and its words are by Gulnazar Keldi. I will play a short part for you.
 
-### 22. Thank you for listening
+### 21. Thank you for listening
 Thank you for listening and learning about my country. I hope one day you can visit Tajikistan.
 
 ---

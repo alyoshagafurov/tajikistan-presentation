@@ -1,6 +1,6 @@
 # Tajikistan — A portrait
 
-A 26-scene English-language photo presentation by **Abdullo Gafurov**. Each scene uses a short, clear line on screen, with a separate easy-to-read speaker script in [SPEAKER_NOTES.md](SPEAKER_NOTES.md). The photos fill the screen; the flag and coat of arms each have a symbol key and layered images. Four short videos play silently when their slide opens and pause when you move on.
+A 21-scene English-language photo presentation by **Abdullo Gafurov**. Each scene uses a short, clear line on screen, with a separate easy-to-read speaker script in [SPEAKER_NOTES.md](SPEAKER_NOTES.md). The photos fill the screen; the flag and coat of arms each have a symbol key and layered images. Four short videos play silently when their slide opens and pause when you move on.
 
 ## Present the slides
 

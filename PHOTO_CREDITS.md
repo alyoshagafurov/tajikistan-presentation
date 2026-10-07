@@ -4,7 +4,7 @@ The presentation uses local copies so it can play as a self-contained page. Imag
 
 ## Photographs supplied with the project
 
-The following photographs were provided with Abdullo Gafurov’s presentation files. The project did not include creator or license details for these supplied files: `dushanbe-day.jpg`, `dushanbe-landmark.jpg`, `dushanbe-night.jpg`, `dushanbe-spire-flags.jpg`, `dushanbe-street-flags.jpg`, `flag.jpg`, `government-building.jpg`, `guest-tea.jpg`, `hissar-fortress.jpg`, `ismail-samani-day.jpg`, `ismail-samani-night.jpg`, `navruz-community.jpg`, `night-mosque.jpg`, `non.jpg`, `pamir-river.jpg`, `pamir-valley.jpg`, `plov.jpg`, `qurut.jpg`, `qurutob.jpg`, `somoni-night-user.jpg`, `sumanak.jpg`, `tajik-dress-walking.jpg`, `tajik-palov-gathering.jpg`, `tajik-textile-map.jpg`, `traditional-crafts.jpg`, `traditional-woman-tea.jpg`, and `uzbek-table.jpg`.
+The following photographs were provided with Abdullo Gafurov’s presentation files. The project did not include creator or license details for these supplied files: `dushanbe-day.jpg`, `dushanbe-landmark.jpg`, `dushanbe-night.jpg`, `dushanbe-spire-flags.jpg`, `dushanbe-street-flags.jpg`, `flag.jpg`, `government-building.jpg`, `guest-tea.jpg`, `hissar-fortress.jpg`, `ismail-samani-day.jpg`, `ismail-samani-night.jpg`, `navruz-community.jpg`, `night-mosque.jpg`, `non.jpg`, `pamir-river.jpg`, `pamir-valley.jpg`, `plov.jpg`, `qurut.jpg`, `qurutob.jpg`, `somoni-night-user.jpg`, `sumanak.jpg`, `tajik-palov-gathering.jpg`, `tajik-textile-map.jpg`, `traditional-crafts.jpg`, `traditional-woman-tea.jpg`, and `uzbek-table.jpg`.
 
 The deck uses the supplied Dushanbe, Ismail Somoni, food, tea, clothing, and flag photos. The explicitly Uzbek table image remains identified as Uzbek in the asset notes and is not shown as Tajik food.
 
@@ -14,7 +14,7 @@ The deck uses the supplied Dushanbe, Ismail Somoni, food, tea, clothing, and fla
 |---|---|---|
 | `assets/dushanbe-1992-ozodi.jpg` | Ratushenko / RIA Novosti archive #466493 · CC BY-SA 3.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:RIAN_archive_466493_Rally_on_Ozodi_square.jpg) · Photographed 3 May 1992 at Ozodi Square. |
 | `assets/president-rahmon.jpg` | Kristina Kormilitsyna / Rossiya Segodnya · CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emomali_Rahmon_%282024-02-21%29.jpg) · Source: Kremlin.ru. |
-| `assets/dushanbe-stadium-2026.jpg` | Shuhrat Sa’diev · CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD_%D0%B8_%D1%87%D0%B0%D0%B9%D1%85%D0%B0%D0%BD%D0%B0_%D0%B2_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5.jpg) · Photographed 24 August 2026. |
+| `assets/stadium-new.jpg` | sports.tj (supplied by Abdullo Gafurov) | [Source article](https://sports.tj/v-stolice-tadzhikistana-zavershaetsya-stroitelstvo-novogo-stadiona/) |
 | `assets/central-asia-map.svg` | Map outlines derived from Natural Earth 1:50m cultural vector data; public domain. Labels and Dushanbe marker added for this presentation. | [Natural Earth data](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/) |
 | `assets/iskanderkul-commons.jpg` | Dan Lundberg · CC BY-SA 2.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tajikistan._Iskander-Kul.jpg) |
 | `assets/sarazm-commons.jpg` | VASHGIRD · CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sarazm-6.jpg) |
