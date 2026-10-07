@@ -45,3 +45,5 @@ Cormorant Garamond and Manrope are distributed under the SIL Open Font License. 
 - Iskanderkul: [Ministry of Foreign Affairs of Tajikistan](https://mfa.tj/en/berlin/view/9098/iskanderkul-lake).
 - National Stadium opening: [Asia-Plus](https://asiaplus.news/en/2026/08/22/a-new-national-stadium-with-a-capacity-of-30000-spectators-opened-in-dushanbe/).
 - Anthem authors and recording: [Prosecutor General’s Office of Tajikistan](https://www.prokuratura.tj/en/state-symbols/the-national-anthem.html) and [Embassy of Tajikistan in Qatar](https://tajembqatar.tj/video/).
+
+| `assets/dushanbe-archive.jpg` | Archive photograph via Asia-Plus | [Source article](https://asiaplus.news/2015/12/03/horosho-li-vy-znaete-staryj-dushanbe/) |
